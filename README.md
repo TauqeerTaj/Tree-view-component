@@ -1,2 +1,0 @@
-# mora
-Created with CodeSandbox
